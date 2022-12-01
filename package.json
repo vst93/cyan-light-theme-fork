@@ -1,9 +1,9 @@
 {
   "name": "cyan-light-theme",
-  "displayName": "Cyan Light Theme",
-  "description": "Port of Intellij IDEA Cyan Light Theme",
+  "displayName": "cyan Light Theme",
+  "description": "Intellij IDEA Cyan Light Theme",
   "version": "0.0.1",
-  "publisher": "Cloud-66",
+  "publisher": "hyperion2144",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cyan Light Theme",
+        "label": "cyan Light Theme",
         "uiTheme": "vs",
         "path": "./themes/cyan-light-color-theme.json"
       }
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloud-66/cyan-light-theme.git"
+    "url": "https://github.com/hyperion2144/cyan-light-theme.git"
   },
-  "homepage": "https://github.com/cloud-66/cyan-light-theme/README.md"
+  "homepage": "https://github.com/hyperion2144/cyan-light-theme/README.md"
 }
