@@ -97,7 +97,8 @@
 				"support.function.construct",
 				"constant.language",
 				"storage.type.function",
-				"meta.method-call.static"
+				"meta.method-call.static",
+				"keyword.other.use",
 			],
 			"settings": {
 				"foreground": "#000080",
@@ -108,7 +109,6 @@
 				"entity.name.type.numeric",
 				"constant.numeric.decimal",
 				"constant.numeric",
-				"keyword.other.use",
 			],
 			"settings": {
 				"foreground": "#0073E6",
