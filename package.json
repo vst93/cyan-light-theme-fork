@@ -2,7 +2,7 @@
   "name": "cyan-light-theme-fork",
   "displayName": "Cyan Light Theme Fork",
   "description": "Intellij IDEA Cyan Light Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "vst",
   "engines": {
     "vscode": "^1.70.0"
