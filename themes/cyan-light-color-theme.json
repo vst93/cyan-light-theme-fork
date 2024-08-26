@@ -1,5 +1,5 @@
 {
-	"name": "Cyan light theme",
+	"name": "Cyan light theme fork",
 	"colors": {
 		"foreground": "#1d1d1d",
 		"activityBar.background": "#e4e6eb",
@@ -31,7 +31,10 @@
 			"scope": [
 				"punctuation.brackets.curly",
 				"entity.name.type.struct",
-				"entity.name.type.declaration"
+				"entity.name.type.declaration",
+				"keyword.other.type.php",
+				"meta.class.body",
+				"support.class.php",
 			],
 			"settings": {
 				"foreground": "#000000",
@@ -40,7 +43,7 @@
 		{
 			"scope": [
 				"entity.name.function.macro.rust",
-				"keyword.operator.macro.dollar.rust"
+				"keyword.operator.macro.dollar.rust",
 			],
 			"settings": {
 				"foreground": "#DD6718",
@@ -62,11 +65,14 @@
 				"entity.name.type.option",
 				// "entity.name.type",
 				"constant.other.caps",
-				// "variable.other",
-				"meta.function.call"
+				"variable.other",
+				"meta.function.call",
+				"comment.block.documentation.phpdoc.php",
+				"variable.language.this.php",
+				"constant.other.class.php"
 			],
 			"settings": {
-				"foreground": "#660E7A",
+				"foreground": "#700000",
 			}
 		},
 		{
@@ -88,6 +94,10 @@
 				"storage.modifier",
 				"keyword.declaration",
 				"keyword.other.import",
+				"support.function.construct",
+				"constant.language",
+				"storage.type.function",
+				"meta.method-call.static"
 			],
 			"settings": {
 				"foreground": "#000080",
@@ -97,7 +107,8 @@
 			"scope": [
 				"entity.name.type.numeric",
 				"constant.numeric.decimal",
-				"constant.numeric"
+				"constant.numeric",
+				"keyword.other.use",
 			],
 			"settings": {
 				"foreground": "#0073E6",
@@ -106,7 +117,11 @@
 		{
 			"scope": [
 				"comment.line.documentation",
-				"comment.line.double-slash"
+				"comment.line.double-slash",
+				"keyword.other.phpdoc.php",
+				"comment.block.documentation.phpdoc.php",
+				"punctuation.definition.comment.php",
+				"comment.line.number-sign.php"
 			],
 			"settings": {
 				"foreground": "#808080",
@@ -126,6 +141,14 @@
 			],
 			"settings": {
 				"foreground": "#2196F3",
+			}
+		},
+		{
+			"scope": [
+				
+			],
+			"settings": {
+				"foreground": "#d9ff00",
 			}
 		},
 	]

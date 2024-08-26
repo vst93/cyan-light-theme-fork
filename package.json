@@ -1,9 +1,9 @@
 {
-  "name": "cyan-light-theme",
-  "displayName": "cyan Light Theme",
+  "name": "cyan-light-theme-fork",
+  "displayName": "cyan Light Theme Fork",
   "description": "Intellij IDEA Cyan Light Theme",
   "version": "0.0.1",
-  "publisher": "hyperion2144",
+  "publisher": "vst",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "cyan Light Theme",
+        "label": "cyan Light Theme Fork",
         "uiTheme": "vs",
         "path": "./themes/cyan-light-color-theme.json"
       }
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hyperion2144/cyan-light-theme.git"
+    "url": "https://github.com/vst93/cyan-light-theme-fork"
   },
-  "homepage": "https://github.com/hyperion2144/cyan-light-theme/README.md"
+  "homepage": "https://github.com/vst93/cyan-light-theme-fork"
 }
