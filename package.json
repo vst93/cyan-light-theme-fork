@@ -1,6 +1,6 @@
 {
   "name": "cyan-light-theme-fork",
-  "displayName": "cyan Light Theme Fork",
+  "displayName": "Cyan Light Theme Fork",
   "description": "Intellij IDEA Cyan Light Theme",
   "version": "0.0.1",
   "publisher": "vst",
@@ -23,5 +23,6 @@
     "type": "git",
     "url": "https://github.com/vst93/cyan-light-theme-fork"
   },
-  "homepage": "https://github.com/vst93/cyan-light-theme-fork"
+  "homepage": "https://github.com/vst93/cyan-light-theme-fork",
+  "icon": "logo.png"
 }
